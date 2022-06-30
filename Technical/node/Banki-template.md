@@ -1,0 +1,148 @@
+### Node
+
+- [ ] What is Node.js? Where can you use it?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Why use Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What are the features of Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] How do you update NPM to a new version in Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Why is Node.js Single-threaded?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Explain callback in Node.js.
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is callback hell in Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] How do you prevent/fix callback hell?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Explain the role of REPL in Node.js.
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Name the types of API functions in Node.js.
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What are the functionalities of NPM in Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is the difference between Node.js and Ajax?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What are “streams” in Node.js? Explain the different types of streams present in Node.js.
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Explain chaining in Node.js.
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What are Globals in Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is Event-driven programming?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is Event loop in Node.js work? And How does it work?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is the purpose of `module.exports` in Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is the difference between Asynchronous and Non-blocking?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is Tracing in Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] How will you debug an application in Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Difference between `setImmediate()` and `setTimeout()`?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is `process.nextTick()`?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is package.json? What is it used for?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is libuv?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What are some of the most popular modules of Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is `EventEmitter` in Node.js?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+
+
+
+## Resources:
+
+- [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
+- [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [https://github.com/yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [https://www.simplilearn.com/node-js-interview-questions-and-answers-article](https://www.simplilearn.com/node-js-interview-questions-and-answers-article)
+- [https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678](https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678)

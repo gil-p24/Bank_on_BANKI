@@ -1,76 +1,116 @@
-## Table of Contents
+### CS Theory 
 
-[Technical](#technical-questions)
-    - [HTML](#html)
+- [ ] What is recursion and give an example using javascript?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What are types?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What are data structures?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is an algorithm?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is scope / lexical scope in javascript?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is polymorphism?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is encapsulation?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Linked List?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Doubly Linked List?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Queue?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Stack?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Hash Table?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Heap?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Trie?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Tree?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Binary Search Tree?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Disjoint Set?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] What is a Bloom Filter?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Demonstrate Bubble Sort and explain when you might use it?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Demonstrate Insertion Sort and explain when you might use it?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Demonstrate Merge Sort and explain when you might use it?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
+- [ ] Demonstrate Quicksort and explain when you might use it?
+  - **Explanation:**
+  - **Use:**
+  - **Example:**
+  - **Source:**
 
-    --------------
-
-
-    ## Technical Questions
-
-Most of the technical questions should have a three sentence response in the EUE format:
-
-- **Explanation**
-- **Use**
-- **Example**
-
-### HTML
-
-- [ ] What does a doctype do?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] How do you serve a page with content in multiple languages?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] What kinds of things must you be wary of when designing or developing for multilingual sites?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] What are `data-` attributes good for?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] Consider HTML5 as an open web platform. What are the building blocks of HTML5?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] Describe the difference between a cookie, sessionStorage and localStorage.
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] Describe the difference between `<script>, <script async> and <script defer>`.
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] Why is it generally a good idea to position CSS `<link>`s within `<head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] What is progressive rendering?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] Why you would use a `srcset` attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
-- [ ] Have you used different HTML templating languages before?
-  - **Explanation:**
-  - **Use:**
-  - **Example:**
-  - **Source:**
 
 ## Resources:
 
