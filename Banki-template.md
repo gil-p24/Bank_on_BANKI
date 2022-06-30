@@ -7,5 +7,8 @@
     - [Javascript General](#javascript-general)
     - [Node](#node)
     - [CS Theory](#cs-theory)
+    - [Threejs](#threejs)
+    - [React](#react)
+    - [SQL](#sql)
 
     ________________-
